@@ -12,6 +12,8 @@ Computer Science Graduate
 <a href="https://www.twitter.com/aliaminoff" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/aliaminoff?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+<a href="https://www.github.com/substro" target="_blank" rel="noreferrer"><img
+src="https://komarev.com/ghpvc/?username=substro&label=Profile%20views&color=0f172a&style=flat" /></a>
 
 ### Skills
 
