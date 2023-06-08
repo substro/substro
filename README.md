@@ -7,7 +7,7 @@ Computer Science Graduate
 
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [prof.aliamin@gmail.com](mailto:prof.aliamin@gmail.com)
-* 🧠  I'm learning web develompent
+* 🧠  Web developer
 
 <a href="https://www.twitter.com/aliaminoff" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/aliaminoff?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
