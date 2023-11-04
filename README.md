@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Amin</h1>
+<h1 align="center">Hi, I'm Ali Amin</h1>
 <h3 align="center">A Front-end Developer and Designer and an aspiring mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=substro&label=Profile%20views&color=0e75b6&style=flat" alt="substro" /> </p>
