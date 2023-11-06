@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://susbtro.netlify.app](https://susbtro.netlify.app)
+- 👨‍💻 All of my projects are available at [https://susbtro.netlify.app](https://substro.netlify.app)
 
 - 📫 How to reach me **prof.aliamin@gmail.com**
 
